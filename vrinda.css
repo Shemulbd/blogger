@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'vrinda';
+    src: url('fonts/vrinda.eot');
+    src: url('fonts/vrinda.eot') format('embedded-opentype'),
+         url('fonts/vrinda.woff2') format('woff2'),
+         url('fonts/vrinda.woff') format('woff'),
+         url('fonts/vrinda.ttf') format('truetype'),
+         url('fonts/vrinda.svg#vrinda') format('svg');
+}
